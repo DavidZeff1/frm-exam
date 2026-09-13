@@ -1,0 +1,19 @@
+{
+  "name": "frm-prep",
+  "version": "1.0.0",
+  "description": "FRM Part I study notes site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "katex": "^0.18.7",
+    "marked": "^18.0.13"
+  },
+  "private": true
+}
